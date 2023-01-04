@@ -6,12 +6,17 @@ This app leverages the wizarding world open api : https://wizard-world-api.herok
 
 # Contribute
 
- we need loads of more stuff like
+ we need loads of more stuff like:
+ * Refactoring and splitting out UI components
+ * Search by name and other available params
+ * New Banner (current is not pretty and does not resize for smaller screens)
+ * More colors -> theming
+ * Wider layout on bigger screens
+ 
+ and more general stuff like:
  * Routing
  * Error handling
  * Tests
- * Refactoring and splitting out UI components
- * Serach by name and other available params
 
 ## Available Scripts
 
