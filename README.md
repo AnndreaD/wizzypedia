@@ -2,6 +2,7 @@
 
 Your no.1 palce for cheking out wizarding world facts
 
+This app leverages the wizarding world open api : https://wizard-world-api.herokuapp.com/swagger/index.html
 
 # Contribute
 

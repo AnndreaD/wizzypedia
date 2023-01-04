@@ -8,7 +8,7 @@ export enum ElixirDifficulty {
 }
 
 export interface ElixirResponse {
-  //add uuid
+  //todo uuid
   id: string;
   name: string;
   effect: string;
