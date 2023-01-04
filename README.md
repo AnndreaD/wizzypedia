@@ -1,6 +1,6 @@
 # Welcome to wizzypedia
 
-Your no.1 palce for cheking out wizarding world facts
+Your no.1 place for checking out wizarding world facts
 
 This app leverages the wizarding world open api : https://wizard-world-api.herokuapp.com/swagger/index.html
 
@@ -10,6 +10,8 @@ This app leverages the wizarding world open api : https://wizard-world-api.herok
  * Routing
  * Error handling
  * Tests
+ * Refactoring and splitting out UI components
+ * Serach by name and other available params
 
 ## Available Scripts
 
